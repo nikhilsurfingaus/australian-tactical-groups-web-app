@@ -40,7 +40,7 @@ export default  function ADF() {
 
     const day = 'The Tactical Assault Group (TAG) is a special forces unit within the Australian Defence Force (ADF) that is tasked with conducting high-risk operations such as counter-terrorism, direct action, and hostage rescue missions. Daily tasks could include Physical Training, Briefing and Planning, Deployments, Conducting Operations, Recovery and Debriefing and Training and Professional Development. It is worth noting that being a TAG member is an extremely demanding job that requires a high level of physical fitness, mental toughness, and technical proficiency. TAG members must also maintain a high level of operational security and confidentiality due to the sensitive nature of their work.'
 
-    const points = ['- Agility Course <50s', '- 100 Push Ups', '- 100 Situps', '- 10 Heaves', '- 2.4km run <10 Mins', '- 400m Swim <15 Mins', '- Tread Water >2 Mins', '- Ruck March <2 Hrs']
+    const points = ['- Agility Course <50s', '- 100 Push Ups', '- 100 Situps', '- 10 Heaves', '- 2.4km run <10 Mins', '- 400m Swim <15 Mins', '- Tread Water >2 Mins', '- 20km Ruck March 30kg Weights <2 Hrs']
 
 
     return (
