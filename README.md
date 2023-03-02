@@ -13,16 +13,29 @@
 
 ## Website Powered By
 <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" alt="drawing" width="100"/> <img 
-src="https://user-images.githubusercontent.com/16843090/101181820-f3a63780-3612-11eb-9d3a-05452f2b0ad8.png" alt="drawing" width="100"/> <img src="https://camo.githubusercontent.com/394ba38797d83799a16f1cb2fd3fc8f607b9fb116f49cf1e1b64eacff9844602/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f642f64352f5461696c77696e645f4353535f4c6f676f2e7376672f3230343870782d5461696c77696e645f4353535f4c6f676f2e7376672e706e67" alt="drawing" width="100"/><img 
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="drawing" width="100"/> <img 
-src="https://avatars.githubusercontent.com/u/59892387?v=4" alt="drawing" width="100"/>
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="drawing" width="100"/> 
 
 - The **React** Framework Library Web Application Crypto X Gains, can either be used in Mobile/Desktop/Tablet modes with responsive design. 
 
-- **Tailwind.css** makes it quicker to write and maintain the application code. By using this utility-first framework, don't have to write custom CSS to style in the application. Instead, use utility classes to control the padding, margin, color, font, shadow, and more of the application.
+- **Bootstrap V5** is a free, open source front-end development framework for the creation of websites and web apps. Designed to enable responsive development of mobile-first websites, Bootstrap provides a collection of syntax for template designs.
 
-- **Axios** is a library that serves to create HTTP requests that are present externally. This includes fetching data from both the deployed backend Express Js server which returns the results of the YTDL-Core from the parsed user URL. Axios also fetches live stats for my Github profile in the Install page using the Github REST API.
+## Libraries
+    "@fortawesome/free-solid-svg-icons": "^6.3.0",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "animate.css": "^4.1.1",
+    "bootstrap": "^5.2.3",
+    "hero-slider": "^3.1.0",
+    "prop-types": "^15.8.1",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.7.2",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "react-typing-effect": "^2.0.5",
+    "web-vitals": "^2.1.4"
 
-- **Python** is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis.
+## Copyright
 
-- **Solidity** is an object-oriented programming language created specifically by the Ethereum Network to write on the Ethereum Blockchain platform.
+**Copyrights 2023, Developed by Nikhil Naik. @WaveFlightSimulation All Rights Reserved.**
