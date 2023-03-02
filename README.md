@@ -2,14 +2,14 @@
 ## Website Link: [https://australian-tactical-groups.io](https://australian-tactical-groups.netlify.app/)
 ## Screenshots
 <p float="left">
-  <img src="https://github.com/nikhilsurfingaus/thesis-frontend-static-analysis/blob/master/src/assets/1.jpg" height=200 width="400" />
-  <img src="https://github.com/nikhilsurfingaus/thesis-frontend-static-analysis/blob/master/src/assets/2.jpg" height=200 width="400" />
-  <img src="https://github.com/nikhilsurfingaus/thesis-frontend-static-analysis/blob/master/src/assets/3.jpg" height=200 width="400" />
-  <img src="https://github.com/nikhilsurfingaus/thesis-frontend-static-analysis/blob/master/src/assets/4.jpg" height=200 width="400" />
-  <img src="https://github.com/nikhilsurfingaus/thesis-frontend-static-analysis/blob/master/src/assets/5.jpg" height=200 width="400" />
-  <img src="https://github.com/nikhilsurfingaus/thesis-frontend-static-analysis/blob/master/src/assets/6.jpg" height=200 width="400" />
-  <img src="https://github.com/nikhilsurfingaus/thesis-frontend-static-analysis/blob/master/src/assets/mobile.jpg" height=450 width="250" />
+  <img src="https://github.com/nikhilsurfingaus/australian-tactical-groups-web-app/blob/master/src/assets/resources/Home.jpg" height=200 width="400" />
+  <img src="https://github.com/nikhilsurfingaus/australian-tactical-groups-web-app/blob/master/src/assets/resources/Home2.jpg" height=200 width="400" />
+  <img src="https://github.com/nikhilsurfingaus/australian-tactical-groups-web-app/blob/master/src/assets/resources/Pol.jpg" height=200 width="400" />
+  <img src="https://github.com/nikhilsurfingaus/australian-tactical-groups-web-app/blob/master/src/assets/resources/about.jpg" height=200 width="400" />
+  <img src="https://github.com/nikhilsurfingaus/australian-tactical-groups-web-app/blob/master/src/assets/resources/sf.jpg" height=200 width="400" />
 </p>
+  <img src="https://github.com/nikhilsurfingaus/australian-tactical-groups-web-app/blob/master/src/assets/resources/mobile.jpg" height=450 width="250" />
+
 
 ## Website Powered By
 <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" alt="drawing" width="100"/> <img 
