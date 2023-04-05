@@ -1,4 +1,4 @@
-# <img src="https://github.com/nikhilsurfingaus/australian-tactical-groups-web-app/blob/master/src/assets/resources/logo.png" width="40" > Australian Tactical Groups 
+# <img src="https://github.com/nikhilsurfingaus/australian-tactical-groups-web-app/blob/master/src/assets/resources/logo.png" width="40" > Australian Tactical Groups Web App
 ## Website Link: [https://australian-tactical-groups.io](https://australian-tactical-groups.netlify.app/)
 ## Screenshots
 <p float="left">
